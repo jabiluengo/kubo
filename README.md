@@ -1,7 +1,3 @@
-```html
-<h2>Example of code</h2>
-
-<pre>
     <div class="container">
         <div class="block two first">
             <h2>kubo</h2>
@@ -11,5 +7,3 @@
             </div>
         </div>
     </div>
-</pre>
-```
